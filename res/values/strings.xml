@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Show Me Pics</string>
+    <string name="main_splash_title">Show Me Pics</string>
+    <string name="main_splash_subtitle">Showing Pictures Android Test</string>
+    <string name="main_splash_subtitle_author">Developed by Ciro Rizzo</string>
+    
+    <string name="title_activity_weather_main_list">Show Me Pics</string>
+    <string name="title_activity_show_mpmain_list">Show Me Pics</string>
+    
+    <string name="none"></string>
+    <string name="def_str">Def Value</string>
+    
+    
+    
+    <string name="dialog_button_gotcha">OK, Got it!</string>
+	
+	<string name="dialog_title_image_downloading">Images are still downloading</string>
+    <string name="dialog_message_image_downloading">The App is retreiving images from the WebService\nPlease wait</string>
+    
+    <string name="dialog_title_no_connectivity">No Connectivity</string>
+    <string name="dialog_message_no_connectivity">No Network Connectivity available</string>
+    <string name="dialog_message_no_connectivity_killing">No Network Connectivity available\nThe App will close by itself\nPlease try later</string>
+    
+    <string name="dialog_title_no_data">No Data Found</string>
+    <string name="dialog_message_no_data">No Data found</string>
+    <string name="dialog_message_no_data_killing">No Data found\nThe App will close by itself\nPlease try later</string>
+
+    <string name="dialog_title_error_caught">Error</string>
+    <string name="dialog_message_error_caught">Error caught during images downloading</string>
+    <string name="dialog_message_error_caught_killing">Error caught during images downloading\nThe App will close by itself\nPlease try later</string>
+    
+    
+    
+    
+</resources>
